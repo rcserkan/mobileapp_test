@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>606706421132-n79udgacg3crtvjg8p07ootsqhp3661l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.606706421132-n79udgacg3crtvjg8p07ootsqhp3661l</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>606706421132-cp8q5j9hckesfai1h4n8em1emfuqeq0s.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBaO1fjsxy3KFXrpQXnPvKXYFz6Q3jUnnc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>606706421132</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.billancho.ios</string>
+	<key>PROJECT_ID</key>
+	<string>billancho</string>
+	<key>STORAGE_BUCKET</key>
+	<string>billancho.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:606706421132:ios:c3e207a6ed73daf118daa9</string>
+	<key>DATABASE_URL</key>
+	<string>https://billancho.firebaseio.com</string>
+</dict>
+</plist>

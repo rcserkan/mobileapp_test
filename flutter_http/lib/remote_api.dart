@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 
 class RemoteApiKullanimi extends StatefulWidget {
-  RemoteApiKullanimi({Key? key}) : super(key: key);
+  RemoteApiKullanimi({Key key}) : super(key: key);
   String value = "";
 
   @override

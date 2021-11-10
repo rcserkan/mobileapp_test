@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "606706421132",
+    "firebase_url": "https://billancho.firebaseio.com",
+    "project_id": "billancho",
+    "storage_bucket": "billancho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606706421132:android:5ecc2d6a93810c5f18daa9",
+        "android_client_info": {
+          "package_name": "com.billancho.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606706421132-ajjisn6q11lqmk4u2sks3v08pk1fhvje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ8abfXFdrIGiq4AeXuZXsTzRDLhJ8M80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606706421132-ajjisn6q11lqmk4u2sks3v08pk1fhvje.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "606706421132-n79udgacg3crtvjg8p07ootsqhp3661l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.billancho.ios",
+                "app_store_id": "1555866832"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
